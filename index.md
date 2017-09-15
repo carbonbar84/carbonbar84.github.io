@@ -1,8 +1,7 @@
 ---
 layout: index
 
-title: José Domingo Muñoz	
-tagline: josedom24.github.io
+title: Carlos Bonilla
 ---
 ![yo](/img/yo1.jpg)
 
